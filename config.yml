@@ -28,8 +28,10 @@ params:
     homeInfoParams:
         Title: "Rohan Kataria"
         Content: "Welcome to my blog about... Data Engineering
-        I'm a skilled data engineer specializing in Data Migration, Architecting Data Platforms & BI.
-        My industry experience spans energy, healthcare, manufacturing, and human resources."
+        
+        - I'm a skilled data engineer specializing in Data Migration, Architecting Data Platforms & BI.
+        
+        - My industry experience spans energy, healthcare, manufacturing, and human resources."
 
     socialIcons:
         - name: "Linkedin"
