@@ -8,6 +8,10 @@ params:
         Title: "Hi there \U0001F44B"
         Content: "Welcome to my blog about... Data Engineering"
 
-    socialIcons: # optional
+    socialIcons:
         - name: "Linkedin"
           url: "https://linkedin.com/in/imrohan"
+          - name: "Calendly"
+          url: "https://calendly.com/imrohankataria/30min"
+          - name: "email"
+          url: "mailto:imrohankataria@gmail.com"
