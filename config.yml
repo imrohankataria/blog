@@ -13,3 +13,8 @@ params:
           url: "https://linkedin.com/in/imrohan"
         - name: "other"
           url: "https://calendly.com/imrohankataria/30min"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
