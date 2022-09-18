@@ -1,7 +1,7 @@
 baseURL: 'http://imrohankataria.github.io/blog/'
 languageCode: 'en-us'
 title: 'Rohan Kataria'
-theme: "PaperMod"
+theme: "PaperMod2"
 
 params:
     homeInfoParams:
