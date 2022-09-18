@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: "Welcome to my blog about... Cloud Data Engineering"
+        Content: "Welcome to my blog about... Data Engineering"
 
     socialIcons: # optional
         - name: "Linkedin"
