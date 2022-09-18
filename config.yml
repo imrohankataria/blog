@@ -11,7 +11,5 @@ params:
     socialIcons:
         - name: "Linkedin"
           url: "https://linkedin.com/in/imrohan"
-          - name: "Calendly"
-          url: "https://calendly.com/imrohankataria/30min"
           - name: "email"
-          url: "mailto:imrohankataria@gmail.com"
+          url: "https://calendly.com/imrohankataria/30min"
