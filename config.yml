@@ -1,0 +1,13 @@
+baseURL: 'http://imrohankataria.github.io/blog/'
+languageCode: 'en-us'
+title: 'Rohan Kataria'
+theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: "Welcome to my blog about... Cloud Data Engineering"
+
+    socialIcons: # optional
+        - name: "Linkedin"
+          url: "https://linkedin.com/in/imrohan"
